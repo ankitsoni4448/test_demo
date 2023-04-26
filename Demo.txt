@@ -1,0 +1,6 @@
+Hello guy
+
+This is my first time to use git. So i'am learning the command in git.
+How will i make the doc file and ahow will i push this in github.
+
+Thanks 
